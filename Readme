@@ -1,0 +1,19 @@
+Go to cd frontend/todoapp1 
+Do npm start
+UI starts on http://localhost:4200
+
+Import restful-web-services into Spring framework
+Run the application
+
+This is a basic todo app which allows you to add, view, update and delete Todos
+Username: kru
+Password: kruthika
+
+Tech stack:
+React JS
+Spring boot
+H2 in memory DB
+JPA/Hiberante - ORM 
+Spring Data JPA
+Java
+JWT tokens
